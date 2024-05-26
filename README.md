@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Gălățeanu Alexandru - alexgalateanu2003@gmail.com
 
-Project Link: https://AlexGalateanu/your_username/Adam-CleverPyBot
+Project Link: https://github.com/AlexGalateanu/Adam-CleverPyBot
 
 —
 
