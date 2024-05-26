@@ -24,7 +24,7 @@ To get started with Adam CleverPyBot, follow these installation steps:
 1. Clone the repository:
 
 
-   git clone https://github.com/your_username/Adam-CleverPyBot.git
+   git clone https://github.com/AlexGalateanu/Adam-CleverPyBot.git
 
 
 
